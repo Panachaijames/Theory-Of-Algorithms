@@ -24,6 +24,8 @@ The problem
 ## This repository contain
 - <b> countdown.ipynb </b>
   - Overview and explanation of the countdown number game
+  - Discussion of the Complexity
+  - Example of RPN or Reverse Reverse Polish Notation
   - Python function to solve the game
   - Example, test of the function
 

@@ -14,11 +14,10 @@
 <br />
 
 ## The reason for making this repository
-This repository exists to contain my project for Theory of Algorithm module. This repository will shows my attempt to solve three different type of problem using Python. 
+This repository exists to contain my project for Theory of Algorithm module. This repository will shows my attempt to solve Two different type of problem using Python. 
 
 The problem
 - The Post Correspondence Problem
-- The Bounded Post Correspondence Problem
 - The Countdown Numbers Game
 
 ## This repository contain
@@ -37,6 +36,10 @@ The problem
 
 ## How To Open The Notebook
 
+### On Renderer
+
+
+### On Local Machine
 1. Download Anaconda.
 2. Make sure git is installed.
 3. Create and Open a blank folder on your computer

@@ -45,7 +45,7 @@ git clone https://github.com/Panachaijames/Theory-Of-Algorithms.git
 ```
 6. Open the folder in cmd
 ```bash
-cd TheoryOfAlgorithms
+cd Theory-Of-Algorithms
 ```
 7. Run the notebooks using either command (lab or notebook)
 

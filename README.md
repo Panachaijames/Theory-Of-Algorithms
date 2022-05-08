@@ -37,7 +37,12 @@ The problem
 ## How To Open The Notebook
 
 ### On Renderer
-
+- Post Correspondence checkpoint <br><br>
+<a href="https://nbviewer.org/github/Panachaijames/Theory-Of-Algorithms/blob/main/.ipynb_checkpoints/post-correspondence-checkpoint.ipynb">![image](https://user-images.githubusercontent.com/48323518/147769928-1d028eb5-6037-4b8e-b97c-4825350fb8ab.png)</a>
+<a href="https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FPanachaijames%2FTheory-Of-Algorithms/HEAD"><img src="https://mybinder.org/static/images/badge_logo.svg?v=51b20aa16836ea83f5ed69194c660eb85c4c2c1e32565312baedb7d534e3ffcf592881dbbe3da441d8293ded842755c906b91fb4aadf15220cf48111ebf701c4"></a>
+- CountDown <br><br>
+<a href="https://nbviewer.org/github/Panachaijames/Theory-Of-Algorithms/blob/main/countdown.ipynb">![image](https://user-images.githubusercontent.com/48323518/147769928-1d028eb5-6037-4b8e-b97c-4825350fb8ab.png)</a>
+<a href="https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FPanachaijames%2FTheory-Of-Algorithms/HEAD"><img src="https://mybinder.org/static/images/badge_logo.svg?v=51b20aa16836ea83f5ed69194c660eb85c4c2c1e32565312baedb7d534e3ffcf592881dbbe3da441d8293ded842755c906b91fb4aadf15220cf48111ebf701c4"></a>
 
 ### On Local Machine
 1. Download Anaconda.
